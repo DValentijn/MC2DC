@@ -1,6 +1,6 @@
-package net.parklabs.mctodisc.events;
+package net.twwg.mctodisc.events;
 
-import net.parklabs.mctodisc.bot.MinecraftDiscordBridge;
+import net.twwg.mctodisc.bot.MinecraftDiscordBridge;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;

@@ -1,4 +1,4 @@
-package net.parklabs.mctodisc.bot;
+package net.twwg.mctodisc.bot;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;

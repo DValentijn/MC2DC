@@ -15,8 +15,8 @@ public class MinecraftDiscordBridge extends ListenerAdapter {
 
     private static JDABuilder builder;
     private static JDA bot;
-    private static final String DISCORD_BOT_TOKEN = "MTExODI4MzU5NDgzMDQ1MDc2MA.Gr7CRR.r_vLGttAQjc1SAGWTyosXomYs4Q1D6QgTm2vkg";
-    private static final String DISCORD_CHANNEL_ID = "1118283957776154624"; // Replace with your Discord channel ID
+    private static final String DISCORD_BOT_TOKEN = "BOTTOKEN  HERE";
+    private static final String DISCORD_CHANNEL_ID = "DISCORD CHANNEL ID HERE"; // Replace with your Discord channel ID
 
     public MinecraftDiscordBridge(){
         builder = JDABuilder.createDefault(DISCORD_BOT_TOKEN);
